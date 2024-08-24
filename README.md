@@ -1,9 +1,9 @@
-+challenge-week-one
+
 
 # <Code Refactor>
 
 ## Description
-A marketing agency wanted to refactor its current website to make it more accessible. Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards. Making a website accessible also positions it better in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities are unable to access their website. 
+A marketing agency wanted to refactor its current website to make it more accessible. Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. Making a website accessible also positions it better in search engines like Google. It also helps companies avoid litigation that can occur when people with disabilities are unable to access their website. 
 
 First, added alt attributes and descriptions to image elements. This was more challenging that expected, as some images are difficult to describe with specificity. For some reason, I was also unable to add the alt Attribute to the "hero" img. After images, I made sure that the title for the web page was concise and descriptive.  Here it seemed that I needed to do little refactoring as their title element was clear and concise, but I did make changes in the h1 element as inicated below. 
 
